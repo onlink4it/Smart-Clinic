@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.onlink4it.smartclinic" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Smart Clinic</name>
+    <description>
+        Smart Clinic Makes Your Clinic Smart
+    </description>
+    <author email="info@onlink4it.com" href="http://www.onlink4it.com">
+        ON-Link
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+    <allow-intent href="http://*/*" />
+</widget>
